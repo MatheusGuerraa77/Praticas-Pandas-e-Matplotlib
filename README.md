@@ -1,0 +1,2 @@
+# Praticas-Pandas-e-Matplotlib
+Este repositório reúne uma série de práticas e exercícios utilizando as bibliotecas Pandas e Matplotlib, focadas em manipulação e visualização de dados com Python. Ao longo da minha jornada para me tornar um grande prfissional, aplico esses conceitos fundamentais , explorando leitura de dados, tratamento, limpeza, manipulação de DataFrames e criação de gráficos informativos.
